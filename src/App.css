@@ -1,0 +1,122 @@
+#root{
+  background-color: rgb(3, 3, 28);
+}
+.body{
+  margin-bottom: 50px;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-container{
+  display: flex;
+  overflow: hidden;
+
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+  background-color: aqua;
+}
+
+.post-card{
+  margin: 20px 50px;
+  size: 40px;
+  flex-direction: column;
+}
+
+.hashtag{
+  margin: 0px 3px;
+}
+.reactions {
+ margin: 15px 0 0 0;
+}
+.createpost{
+  width: 80px;
+  margin-top: 50px;
+  margin-left: 10%;
+  color: whitesmoke;
+  font-weight: 200px;
+}
+.group1{
+  min-width: 300px;
+  margin-left: 221px;
+  margin-right: auto
+}
+.group2{
+  min-width: 223px;
+  margin-left: 27px;
+  margin-top: 20px;
+  border-radius: 20px;
+  margin-right: 221px;
+
+}
+.group3{
+  min-width: 245px;
+  margin-left: 34px;
+  border-radius: 20px;
+  height: 200px;
+  margin-right: 221px;
+}
+.group4{
+  max-width: 54px;
+  margin-left: auto;
+  margin-right: 221px;
+
+}
+.group5{
+  width: 124px;
+  margin-left: 21%;
+  margin-top: 50px;
+  margin-right: 221px;
+}
+.notes h6{
+  margin-right: 50px;
+  margin-left: 400;
+  font-size: 50px;
+}
+.text-2{
+  margin-left: 30px;
+  font-size: 50px;
+  color: whitesmoke;
+}
+.text-3{
+  color: white;
+  margin-left: 50px;
+  font-size: 30px;
+
+}
+.text-4{
+  color: white;
+  margin-left: 280px;
+  width: 20px;
+
+}
+.text-5{
+  color: white;
+}
+.files{
+  width:150px;
+  margin-left: 21%;
+  margin-right: auto;
+}
+.foots{
+  color: whitesmoke;
+}
+.footer1{
+  color: whitesmoke;
+}
+.nero{
+  color: rgb(10, 70, 250);
+  position: sticky;
+}
+.container{
+  flex: 1;
+}
+
+
+
+
